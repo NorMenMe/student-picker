@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.wrapper {
+  width: 80%;
+  margin: 0 auto;
+  background-color: #fedfc3;
+  border-radius: 2px;
+  margin-top: 2rem;
+  padding: 2%;
+}
+
+#header {
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+}
