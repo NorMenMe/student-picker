@@ -7,6 +7,10 @@ A random student name picker.
 - vanilla JS
 - css
 
+🚀 Check the site:
+
+[student-picker](https://normenme.github.io/student-picker/)
+
 💡 This content helped me a lot for moving on :
 
 [javascript-info](https://javascript.info/settimeout-setinterval)
