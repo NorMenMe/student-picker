@@ -15,4 +15,4 @@ A random student name picker.
 
 [javascript-info](https://javascript.info/settimeout-setinterval)
 
-![image](../images/student-picker.png)
+![image](./images/student-picker.png)
