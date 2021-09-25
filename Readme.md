@@ -14,3 +14,5 @@ A random student name picker.
 💡 This content helped me a lot for moving on :
 
 [javascript-info](https://javascript.info/settimeout-setinterval)
+
+![image](../images/student-picker.png)
